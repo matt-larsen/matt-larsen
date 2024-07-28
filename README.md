@@ -18,7 +18,6 @@ Welcome to my page! I'm Matt Larsen, a Data Engineer. I'm currently involved in 
 ### **Tech Stack**
 In the backend I mostly work in **Python**, but have experience in **Ruby on Rails** as well. For the frontend, I have been most interested in **Svelte** & **SvelteKit** lately.
 
-#### Backend
 ![Python](https://img.shields.io/badge/python-3670A0?logo=python&logoColor=ffdd54)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?logo=fastapi)
 ![SQLAlchemy](https://img.shields.io/badge/-SqlAlchemy-FCA121?style=flat-square&logo=SqlAlchemy)
