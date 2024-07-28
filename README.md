@@ -13,9 +13,6 @@ Welcome to my page! I'm Matt Larsen, a Data Engineer. I'm currently involved in 
 - Snowflake Data Warehousing Pipelines
 - AI Concepts and modeling
 
-### **Projects**
-- Coming soon...
-  
 <hr />
 
 ### **Tech Stack**
@@ -29,12 +26,8 @@ In the backend I mostly work in **Python**, but have experience in **Ruby on Rai
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white)
 ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?logo=ruby&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white)
-
-#### Frontend
 ![Svelte](https://img.shields.io/badge/svelte-%23f1413d.svg?logo=svelte&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?logo=tailwind-css&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-
-#### Cloud
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?logo=amazon-aws&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?logo=vercel&logoColor=white)
