@@ -2,16 +2,12 @@
 
 # Hey there 👋
 
-Welcome to my page! I'm Matt Larsen, a Data Engineer. I'm currently involved in architecting and developing highly-scalable pipelines in my current role. I specialize in event-driven architecture through AWS resources and love working with APIs.
+Currently involved in architecting and developing highly-scalable pipelines in my current role. I specialize in event-driven architecture through AWS resources and love working with APIs.
 
 ### **I’m currently working on ...**
 - A FastAPI backend for a customer-facing frontend application
 - ETL architecture planning
 - Modernizing legacy Express applications
-
-### **I’m currently learning ...**
-- Snowflake Data Warehousing Pipelines
-- AI Concepts and modeling
 
 <hr />
 
